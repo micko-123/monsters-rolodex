@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.header{
+  font-family: 'Gugi';
+  font-size: 72px;
+  color:#0ccac4 ;
+}
+
+h1 {
+  font-family: 'Gugi';
+  
+}
